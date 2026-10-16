@@ -1,0 +1,82 @@
+[
+  {
+    "year": 2021,
+    "direction": "imports",
+    "page": "https://www.gov.uk/government/statistics/preference-utilisation-of-uk-trade-in-goods-2021",
+    "url": "https://assets.publishing.service.gov.uk/media/69e78d3a08ecdb5c6f34ad83/imports-pur-database-2021.ods",
+    "retrieved_utc": "2026-10-16T06:55:30.275927+00:00",
+    "bytes": 1494530,
+    "sha256": "83055794252635c07b58dad442919f4eced236c549ece88af23a52dbb92758ff",
+    "rows": 9070
+  },
+  {
+    "year": 2021,
+    "direction": "exports",
+    "page": "https://www.gov.uk/government/statistics/preference-utilisation-of-uk-trade-in-goods-2021",
+    "url": "https://assets.publishing.service.gov.uk/media/69e78d32606c20d4121631e0/exports-pur-database-2021.ods",
+    "retrieved_utc": "2026-10-16T06:55:30.499254+00:00",
+    "bytes": 757179,
+    "sha256": "87037425c52a940a3d2ebca497076413f5a6c6ed473fef80d95e71d03922201e",
+    "rows": 4395
+  },
+  {
+    "year": 2022,
+    "direction": "imports",
+    "page": "https://www.gov.uk/government/statistics/preference-utilisation-of-uk-trade-in-goods-2022",
+    "url": "https://assets.publishing.service.gov.uk/media/69e77cccf766dcdcd050350d/imports-pur-database-2022.ods",
+    "retrieved_utc": "2026-10-16T06:55:31.388531+00:00",
+    "bytes": 1649634,
+    "sha256": "1a7fb26694f4622dd3d982827f382a44b5804cbe2253148c835a4dd488453982",
+    "rows": 10137
+  },
+  {
+    "year": 2022,
+    "direction": "exports",
+    "page": "https://www.gov.uk/government/statistics/preference-utilisation-of-uk-trade-in-goods-2022",
+    "url": "https://assets.publishing.service.gov.uk/media/69e77cd6b8bc5eda995ee7ba/exports-pur-database-2022.ods",
+    "retrieved_utc": "2026-10-16T06:55:31.600824+00:00",
+    "bytes": 740992,
+    "sha256": "a8cb2e1f938c8855bf37e517de86be339b05569fc9fb02b08a9835437d036b70",
+    "rows": 4379
+  },
+  {
+    "year": 2023,
+    "direction": "imports",
+    "page": "https://www.gov.uk/government/statistics/preference-utilisation-of-uk-trade-in-goods-2023",
+    "url": "https://assets.publishing.service.gov.uk/media/69e754f4b8bc5eda995ee786/imports-pur-database-2023.ods",
+    "retrieved_utc": "2026-10-16T06:55:32.603903+00:00",
+    "bytes": 1535120,
+    "sha256": "b3c208246903bd416cbc31955869e7ad9ec3ae6d9404bb2321ad09cbfce8967a",
+    "rows": 9897
+  },
+  {
+    "year": 2023,
+    "direction": "exports",
+    "page": "https://www.gov.uk/government/statistics/preference-utilisation-of-uk-trade-in-goods-2023",
+    "url": "https://assets.publishing.service.gov.uk/media/69e73f1244a079b27f997fe2/exports-pur-database-2023.ods",
+    "retrieved_utc": "2026-10-16T06:55:32.815445+00:00",
+    "bytes": 685376,
+    "sha256": "c0f5029e3e02e2f2117e365aba97853bb5e8fce9d4095be709dad0f6dd15c1c0",
+    "rows": 4171
+  },
+  {
+    "year": 2024,
+    "direction": "imports",
+    "page": "https://www.gov.uk/government/statistics/preference-utilisation-of-uk-trade-in-goods-2024",
+    "url": "https://assets.publishing.service.gov.uk/media/69e734a644a079b27f997fce/imports-pur-database-2024.ods",
+    "retrieved_utc": "2026-10-16T06:55:33.610986+00:00",
+    "bytes": 1448443,
+    "sha256": "b33198edb8105d68eb51a80691c2314ce7239f1ce8ba16c116a0206c7b17a637",
+    "rows": 9672
+  },
+  {
+    "year": 2024,
+    "direction": "exports",
+    "page": "https://www.gov.uk/government/statistics/preference-utilisation-of-uk-trade-in-goods-2024",
+    "url": "https://assets.publishing.service.gov.uk/media/69e734b0de262afd82fcf9b1/exports-pur-database-2024.ods",
+    "retrieved_utc": "2026-10-16T06:55:33.872652+00:00",
+    "bytes": 663855,
+    "sha256": "278b25f24a75243def61b3a550e19b55b92badd988e76e6a19ee16f608162590",
+    "rows": 4033
+  }
+]

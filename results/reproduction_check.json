@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-16",
+  "python": "3.12.14",
+  "isolated_environment": true,
+  "fresh_environment_numeric_data_files_identical": 23,
+  "test_methods": 7,
+  "test_result": "PASS",
+  "bound_integer_configurations": 1980,
+  "linear_programming_cross_checks": 200,
+  "rational_decomposition_cases": 1000,
+  "source_rows": 55754,
+  "retained_rows": 53161,
+  "quarantined_rows": 2593,
+  "pdf_pages": 18,
+  "figures": 6,
+  "tables": 6,
+  "references": 19,
+  "overfull_boxes": 0,
+  "undefined_references": 0,
+  "visual_review": "All 18 rendered pages inspected"
+}

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite the working paper when using this research package."
+title: "Tariff Abolition and the Measurement of Trade-Agreement Use"
+authors:
+  - family-names: Gupta
+    given-names: Shivam
+type: report
+date-released: 2026-10-16
+version: "1.0.0"
+repository-code: "https://github.com/shi1720/preference-selection"
+url: "https://github.com/shi1720/preference-selection"

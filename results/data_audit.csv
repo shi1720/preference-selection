@@ -1,0 +1,9 @@
+year,direction,source_rows,quarantined_year_mismatches,rows,partners,missing_eligible,missing_used,used_exceeds_eligible,negative_values
+2021,exports,4395,2593,1802,21,0,0,0,0
+2021,imports,9070,0,9070,228,0,0,0,0
+2022,exports,4379,0,4379,48,0,0,0,0
+2022,imports,10137,0,10137,235,0,0,0,0
+2023,exports,4171,0,4171,46,0,0,0,0
+2023,imports,9897,0,9897,235,0,0,0,0
+2024,exports,4033,0,4033,44,0,0,0,0
+2024,imports,9672,0,9672,231,0,0,0,0

@@ -1,0 +1,12 @@
+test_independent_published_controls (test_data.DataTest.test_independent_published_controls) ... ok
+test_no_false_zero_or_duplicate_observations (test_data.DataTest.test_no_false_zero_or_duplicate_observations) ... ok
+test_source_integrity_and_extraction (test_data.DataTest.test_source_integrity_and_extraction) ... ok
+test_bounds_exhaustive_rational (test_methods.MethodsTest.test_bounds_exhaustive_rational) ... ok
+test_charnes_cooper_lp (test_methods.MethodsTest.test_charnes_cooper_lp) ... ok
+test_decomposition_exact_fraction_identity (test_methods.MethodsTest.test_decomposition_exact_fraction_identity) ... ok
+test_zero_and_missing_rejected (test_methods.MethodsTest.test_zero_and_missing_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.520s
+
+OK
